@@ -1,12 +1,12 @@
 {
-  "name": "ion-datepicker",
+  "name": "@pdesire/ion-datepicker",
   "version": "2.7.7",
-  "description": "A date picker for ionic",
+  "description": "A date picker for ionic, customized for special needs",
   "main": "index.js",
-  "author": "Misha Tarnorutksy <misha130@gmail.com>",
+  "author": "Tristan Marsell <tristan@sqrls.de>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/misha130/ion-datepicker"
+    "url": "https://github.com/PDesire/ion-datepicker"
   },
   "keywords": [
     "datepicker-ionic3",
