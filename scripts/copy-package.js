@@ -8,4 +8,4 @@ if (! packageJson) {
 
 delete packageJson.devDependencies;
 
-fs.writeFile('./dist/package.json', JSON.stringify(packageJson, null, 2));
+fs.writeFileSync('./dist/package.json', JSON.stringify(packageJson, null, 2));
